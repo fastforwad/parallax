@@ -1,6 +1,8 @@
 @charset "UTF-8";
 /* CSS Document */
-
+body, html{
+	height:100%;
+}
 .content{
 	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
 	color: purple;
