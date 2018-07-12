@@ -3,7 +3,11 @@
 
 .content{
 	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
-	color: blueviolet;
+	color: purple;
+	height: 300px;
+	background-color: grey;
+	font-size: 12px;
+	
 }
 
 .parallax{
