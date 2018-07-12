@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.content{
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	color: blueviolet;
+}
+
+.parallax{
+	background-image: url("happyweed.jpg");
+	height:100%;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	
+}
