@@ -2,19 +2,24 @@
 /* CSS Document */
 body, html{
 	height:100%;
+	margin:0;
+	padding:0;
 }
-.content{
+.content {
 	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
 	color: purple;
-	height: 100%;
+	height: 100vh;
 	background-color: grey;
-	font-size: 12px;
+	font-size: 2em;
+	text-align: center;
+	vertical-align: middle;
+	
 	
 }
 
 .parallax{
 	background-image: url("happyweed.jpg");
-	height:60%;
+	height:100%;
 	background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -24,7 +29,7 @@ body, html{
 
 .parallax2{
 	background-image: url("happyweed_2.png");
-	height:50%;
+	height:100%;
 	background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
